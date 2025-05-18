@@ -63,5 +63,11 @@ chmod +x LiteEx
 ./LiteEx
 ```
 
+## 📢 Note for Ubuntu 22.04 (ldd 2.35)
+
+If you're using Ubuntu 22.04 with ldd version 2.35, you can download the pre-built executable for Ubuntu 22.04 from the following link:
+
+[Download](https://drive.google.com/file/d/1-NZFRgAssvW3--A6OPn3V97fD5p4zRIq/view?usp=sharing) the executable for Ubuntu 22.04 (ldd 2.35)
+
 
  
