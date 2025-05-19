@@ -18,7 +18,7 @@ Ensure that you have the following software installed on your system:
 
 Before running the application, you need to ensure that the required dependencies are installed:
 
-#### a. Install Python 3 and pip
+#### a. Install Python 3 and pip (optional)
 Make sure **Python 3** and **pip** (Python's package manager) are installed on your system.
 
 ```bash
@@ -27,7 +27,7 @@ sudo apt install python3 python3-pip
 ```
 ### b. Install Scapy
 
-The application relies on Scapy, which is installed via pip. Run the following command to install Scapy version 2.6.1:
+The application relies on Scapy, which is installed via pip. Run the following command to install Scapy version 2.6.1: (optional)
 
 ```bash
 pip3 install scapy==2.6.1
@@ -46,7 +46,7 @@ ldd (Ubuntu GLIBC 2.39-0ubuntu8.4) 2.39
 
 ## 2. Clone the Repository
 
-Clone the repository containing the pkt2flow source code and install pkt2flow module
+Clone the repository containing the pkt2flow source code and install pkt2flow module (optional)
 
 ```bash
 git clone https://github.com/kirang193/pkt2flow.git
